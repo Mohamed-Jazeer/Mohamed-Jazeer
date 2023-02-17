@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohamed-Jazeer</h1>
-<h3 align="center">I'm Mohamed Jazeer, a Quality Assurance Engineer with a passion for data analytics and statistics. My work in Quality Assurance has given me a strong foundation in problem-solving, critical thinking, and attention to detail, skills that are essential for data science. I'm excited about transitioning into a data science role, where I can apply my skills in data analytics and statistics to solve complex problems and make data-driven decisions. My goal is to work on projects that have a real impact on business outcomes and drive growth. I'm constantly learning and improving my skills, and I'm looking forward to connect with like-minded professionals in the data science community.</h3>
+<h3 align="center">I'm Mohamed Jazeer, a Quality Assurance Engineer with a passion for data analytics and statistics.</h3>
+
+- 📫 How to reach me **mohamed.jazeer@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-r-837060236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-r-837060236" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
