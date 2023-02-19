@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Jazeer</h1>
-<h3 align="center">A data science enthusiast, I have completed Full Stack Data Science course and projects on topics such as data analysis, machine learning, NLP and statistical modeling.</h3>
+<h3 align="center">A data science enthusiast completed Full Stack Data Science course and projects on topics such as data analysis, machine learning, NLP and statistical modeling.</h3>
 
 - 📫 How to reach me **mohamed.jazeer@gmail.com**
 
